@@ -17,4 +17,5 @@ Calcular a taxa de entrega de um pedido conforme a distância percorrida e o val
 ## Refactor
 
 **Melhoria realizada:** Organização da implementação e dos testes para facilitar a leitura e a manutenção do código. Caso nenhuma refatoração tenha sido necessária, a implementação foi mantida como estava.
+
 **Resultado final:** Os testes automatizados foram executados com pytest e passaram, incluindo os três cenários obrigatórios: 2 km com pedido de R$ 50,00, 4 km com pedido de R$ 50,00 e 5 km com pedido de R$ 100,00.
